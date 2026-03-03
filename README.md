@@ -1,5 +1,9 @@
 # Otimização de Rotas de Pulverização Agrícola via Busca Tabu
 
+![Animação da solução](anim.gif)
+
+[Vídeo no YouTube](https://youtu.be/EH1mGoQ-q2E) | [Relatório](https://drive.google.com/file/d/1hBQde1W0hnotBjDAmwaYEAKjqbSb773L/view?usp=sharing)
+
 Este repositório contém o código-fonte do projeto desenvolvido para a disciplina MO824/MC859 (Tópicos em Otimização Combinatória) da Unicamp.
 
 O projeto implementa uma meta-heurística de **Busca Tabu** para resolver um problema de otimização de rotas de pulverização agrícola, modelado como uma variação do *Covering Salesman Problem* (CSP). O objetivo é encontrar uma sequência de pontos (rota) que minimize um custo operacional total, composto pela distância percorrida, penalidade por falha de cobertura e penalidade por complexidade de manobra.
