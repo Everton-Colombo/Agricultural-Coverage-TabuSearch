@@ -1,8 +1,12 @@
 # Otimização de Rotas de Pulverização Agrícola via Busca Tabu
 
-![Animação da solução](anim.gif)
+<p align="center">
+  <img src="anim.gif" width="33%">
+</p>
 
-[Vídeo no YouTube](https://youtu.be/EH1mGoQ-q2E) | [Relatório](https://drive.google.com/file/d/1hBQde1W0hnotBjDAmwaYEAKjqbSb773L/view?usp=sharing)
+<p align="center">
+  <a href="https://youtu.be/EH1mGoQ-q2E">Vídeo no YouTube</a> | <a href="https://drive.google.com/file/d/1hBQde1W0hnotBjDAmwaYEAKjqbSb773L/view?usp=sharing">Relatório</a>
+</p>
 
 Este repositório contém o código-fonte do projeto desenvolvido para a disciplina MO824/MC859 (Tópicos em Otimização Combinatória) da Unicamp.
 
